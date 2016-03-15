@@ -1,5 +1,5 @@
 {
-  "name": "hoodiecrow-imap",
+  "name": "hoodiecrow",
   "version": "2.1.0",
   "description": "Scriptable IMAP mock server for testing purposes",
   "main": "lib/server.js",
