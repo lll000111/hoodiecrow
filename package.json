@@ -9,7 +9,7 @@
   "bin": {
     "hoodiecrow": "./bin/hoodiecrow"
   },
-  "repository": "git@github.com:andris9/hoodiecrow.git",
+  "repository": "git@github.com/WhyEvenTry/hoodiecrow",
   "keywords": [
     "IMAP"
   ],
